@@ -76,7 +76,6 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'db.fr-pari1.bengt.wasmernet.com',
-	'port'     => 10272
 	'username' => '94ce8a747c8b8000974368e36203',
 	'password' => '069c94ce-8a74-7d94-8000-9b60b9cc2462',
 	'database' => 'dbdz5EpcmUTLHUtAQ9DTsBEn',
