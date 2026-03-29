@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'phplicts_usermgmt',
-	'password' => '5i?oOT4sEp@7',
-	'database' => 'phplicts_usermgmt',
+	'hostname' => 'db.fr-pari1.bengt.wasmernet.com',
+	'username' => '945df5ca7ed080006baae1e0095d',
+	'password' => '069c945d-f5ca-7fd8-8000-ae3437d8e070',
+	'database' => 'dbGncUjHx4dmVETXGTghynfy',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
